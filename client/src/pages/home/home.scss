@@ -1,0 +1,12 @@
+.home {
+  background-color: var(--main-color);
+  overflow: hidden;
+
+  .homespan {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    height: 50px;
+  }
+}
